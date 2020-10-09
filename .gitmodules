@@ -25,3 +25,9 @@
 [submodule "alumnos/daniel_real"]
 	path = alumnos/daniel_real
 	url = https://github.com/DaniRG2020/programacion
+[submodule "alumnos/luis_arroyo"]
+	path = alumnos/luis_arroyo
+	url = https://github.com/LuisArroyoCaballero/programacion_daw1
+[submodule "alumnos/juanlu_hernandez"]
+	path = alumnos/juanlu_hernandez
+	url = https://github.com/JuanLuisHernandezTerron/Programacion.git
