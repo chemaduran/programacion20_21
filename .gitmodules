@@ -31,3 +31,6 @@
 [submodule "alumnos/juanlu_hernandez"]
 	path = alumnos/juanlu_hernandez
 	url = https://github.com/JuanLuisHernandezTerron/Programacion.git
+[submodule "alumnos/ricardo_chimborazo"]
+	path = alumnos/ricardo_chimborazo
+	url = https://github.com/ricardo121/DAW_Programacion.git
