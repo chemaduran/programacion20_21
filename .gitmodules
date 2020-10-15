@@ -37,3 +37,6 @@
 [submodule "alumnos/david_aliseda"]
 	path = alumnos/david_aliseda
 	url = https://github.com/DavidCesarAliseda/Programacion
+[submodule "alumnos/miguel_castro"]
+	path = alumnos/miguel_castro
+	url = https://github.com/miguelcastro8/programacion.git
