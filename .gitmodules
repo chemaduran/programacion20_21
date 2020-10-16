@@ -43,3 +43,6 @@
 [submodule "alumnos/rafael_ortega"]
 	path = alumnos/rafael_ortega
 	url = https://github.com/rortega-iesalixar/programacion
+[submodule "alumnos/manuel_colchero"]
+	path = alumnos/manuel_colchero
+	url = https://github.com/mcolchero/PROGRAMACION.git
