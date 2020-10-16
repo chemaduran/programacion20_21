@@ -40,3 +40,6 @@
 [submodule "alumnos/miguel_castro"]
 	path = alumnos/miguel_castro
 	url = https://github.com/miguelcastro8/programacion.git
+[submodule "alumnos/rafael_ortega"]
+	path = alumnos/rafael_ortega
+	url = https://github.com/rortega-iesalixar/programacion
