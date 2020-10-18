@@ -1,9 +1,6 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/chemaduran/ejercicios-java
-[submodule "alumnos/alvaro_gil"]
-	path = alumnos/alvaro_gil
-	url = https://github.com/agilg00/Programacion_DAW2021
 [submodule "alumnos/julian_alvarez"]
 	path = alumnos/julian_alvarez
 	url = https://github.com/jalvarezp10/Programacion20-21
