@@ -46,3 +46,7 @@
 [submodule "alumnos/manuel_colchero"]
 	path = alumnos/manuel_colchero
 	url = https://github.com/mcolchero/PROGRAMACION.git
+[submodule "java_nuevo"]
+	path = java_nuevo
+	url = git@github.com:chemaduran/ejercicios-java.git
+	branch = master
