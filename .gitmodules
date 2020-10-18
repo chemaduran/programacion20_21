@@ -47,3 +47,7 @@
 	path = java_nuevo
 	url = git@github.com:chemaduran/ejercicios-java.git
 	branch = master
+[submodule "alumnos/alvaro_gil"]
+	path = alumnos/alvaro_gil
+	url = https://github.com/agilg00/Programacion_DAW2021.git
+	branch = master
