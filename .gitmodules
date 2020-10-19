@@ -7,9 +7,6 @@
 [submodule "alumnos/ricardo_chimborazo"]
 	path = alumnos/ricardo_chimborazo
 	url = https://github.com/ricardo121/DAW_Programacion.git
-[submodule "alumnos/rafael_ortega"]
-	path = alumnos/rafael_ortega
-	url = https://github.com/rortega-iesalixar/programacion
 [submodule "java_nuevo"]
 	path = java_nuevo
 	url = git@github.com:chemaduran/ejercicios-java.git
