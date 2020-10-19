@@ -4,9 +4,6 @@
 [submodule "alumnos/sebastian_bermudez"]
 	path = alumnos/sebastian_bermudez
 	url = https://github.com/sebasbermuher/Programacion2020-21
-[submodule "alumnos/ricardo_chimborazo"]
-	path = alumnos/ricardo_chimborazo
-	url = https://github.com/ricardo121/DAW_Programacion.git
 [submodule "java_nuevo"]
 	path = java_nuevo
 	url = git@github.com:chemaduran/ejercicios-java.git
