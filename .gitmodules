@@ -28,9 +28,6 @@
 [submodule "alumnos/ricardo_chimborazo"]
 	path = alumnos/ricardo_chimborazo
 	url = https://github.com/ricardo121/DAW_Programacion.git
-[submodule "alumnos/david_aliseda"]
-	path = alumnos/david_aliseda
-	url = https://github.com/DavidCesarAliseda/Programacion
 [submodule "alumnos/miguel_castro"]
 	path = alumnos/miguel_castro
 	url = https://github.com/miguelcastro8/programacion.git
