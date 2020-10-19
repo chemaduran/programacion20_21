@@ -7,9 +7,6 @@
 [submodule "alumnos/rafa_gomez"]
 	path = alumnos/rafa_gomez
 	url = https://github.com/rafgomort/Programacion20-21
-[submodule "alumnos/juancarlos_rayo"]
-	path = alumnos/juancarlos_rayo
-	url = https://github.com/juancarlosrd/Programacion_20_21
 [submodule "alumnos/sebastian_bermudez"]
 	path = alumnos/sebastian_bermudez
 	url = https://github.com/sebasbermuher/Programacion2020-21
