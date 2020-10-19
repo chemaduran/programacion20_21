@@ -2,3 +2,67 @@
 	path = alumnos/alvaro_gil
 	url = https://github.com/agilg00/Programacion_DAW2021.git
 	branch = master
+[submodule "java"]
+	path = java
+	url = git@github.com:chemaduran/ejercicios-java.git
+	branch = master
+[submodule "alumnos/daniel_real"]
+	path = alumnos/daniel_real
+	url = https://github.com/DaniRG2020/programacion.git
+	branch = master
+[submodule "alumnos/david_f_aliseda"]
+	path = alumnos/david_f_aliseda
+	url = https://github.com/DavidCesarAliseda/Programacion.git
+	branch = master
+[submodule "alumnos/gabriel_karajallo"]
+	path = alumnos/gabriel_karajallo
+	url = https://github.com/Gabrielkarajallo/Programacion.git
+	branch = master
+[submodule "alumnos/isidro_perez"]
+	path = alumnos/isidro_perez
+	url = https://github.com/isidroperez22/Programacion_20-21.git
+	branch = master
+[submodule "alumnos/juancarlos_rayo"]
+	path = alumnos/juancarlos_rayo
+	url = https://github.com/juancarlosrd/Programacion_20_21.git
+	branch = master
+[submodule "alumnos/juanlu_hernandez"]
+	path = alumnos/juanlu_hernandez
+	url = https://github.com/JuanLuisHernandezTerron/Programacion.git
+	branch = master
+[submodule "alumnos/julian_alvarez"]
+	path = alumnos/julian_alvarez
+	url = https://github.com/jalvarezp10/Programacion20-21.git
+	branch = master
+[submodule "alumnos/luis_arroyo"]
+	path = alumnos/luis_arroyo
+	url = https://github.com/LuisArroyoCaballero/programacion_daw1.git
+	branch = main
+[submodule "alumnos/manuel_colchero"]
+	path = alumnos/manuel_colchero
+	url = https://github.com/mcolchero/PROGRAMACION.git
+	branch = main
+[submodule "alumnos/miguel_castro"]
+	path = alumnos/miguel_castro
+	url = https://github.com/miguelcastro8/programacion.git
+	branch = main
+[submodule "alumnos/rafael_gomez"]
+	path = alumnos/rafael_gomez
+	url = https://github.com/rafgomort/Programacion20-21.git
+	branch = master
+[submodule "alumnos/rafael_ortega"]
+	path = alumnos/rafael_ortega
+	url = https://github.com/rortega-iesalixar/programacion.git
+	branch = master
+[submodule "alumnos/sebastian_bermudez"]
+	path = alumnos/sebastian_bermudez
+	url = https://github.com/sebasbermuher/Programacion2020-21.git
+	branch = master
+[submodule "alumnos/pablo_sanchez"]
+	path = alumnos/pablo_sanchez
+	url = https://github.com/Pablosm02/Programacion
+	branch = master
+[submodule "alumnos/ricardo_chimborazo"]
+	path = alumnos/ricardo_chimborazo
+	url = https://github.com/ricardo121/DAW_Programacion
+	branch = main
