@@ -66,3 +66,7 @@
 	path = alumnos/ricardo_chimborazo
 	url = https://github.com/ricardo121/DAW_Programacion
 	branch = main
+[submodule "teoria"]
+	path = teoria
+	url = git@github.com:chemaduran/programacion2021_teoria.git
+	branch = master
