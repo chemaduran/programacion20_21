@@ -73,4 +73,7 @@
 [submodule "alumnos/oscar_alcala"]
 	path = alumnos/oscar_alcala
 	url = https://github.com/Oscaralcala24/Programacion.git
+[submodule "teoria"]
+	path = teoria
+	url = git@github.com:chemaduran/programacion2021_teoria.git
 	branch = master
