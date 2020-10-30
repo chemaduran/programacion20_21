@@ -66,3 +66,11 @@
 	path = alumnos/ricardo_chimborazo
 	url = https://github.com/ricardo121/DAW_Programacion
 	branch = main
+[submodule "alumnos/abraham_ruiz"]
+	path = alumnos/abraham_ruiz
+	url = https://github.com/abrahamruizc/Programacion
+	branch = master
+[submodule "alumnos/oscar_alcala"]
+	path = alumnos/oscar_alcala
+	url = https://github.com/Oscaralcala24/Programacion.git
+	branch = master
